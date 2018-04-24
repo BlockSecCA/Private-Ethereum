@@ -1,10 +1,5 @@
 
 <head>
-<style type="text/css">
-.auto-style1 {
-	margin-left: 40px;
-}
-</style>
 </head>
 
 <p><span class="auto-style1"><strong>Private Ethereum Chain for fun and profit</strong></span><br>
