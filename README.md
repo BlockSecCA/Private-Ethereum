@@ -64,7 +64,7 @@ transfers and watch them go</p>
 	</li>
 </ul>
 <p class="auto-style2"><strong>Starting Point</strong>: Generic Node 
-configuration (index.html file)<br></p>
+configuration (<a href="index.html">index.html file</a>)<br></p>
 <p><strong>Ubuntu Notes</strong></p>
 <ul>
 	<li>
