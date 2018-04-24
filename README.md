@@ -2,7 +2,7 @@
 <head>
 </head>
 
-<p><span class="auto-style1">Private Ethereum Chain for fun and profit</span><br>
+<p><span class="auto-style1"><strong>Private Ethereum Chain for fun and profit</strong></span><br>
 Primary objective: create a private ethereum network and blockchain.</p>
 <p><strong>High level goals</strong></p>
 <p class="auto-style2">Develop a technical recipe for the private chain 
