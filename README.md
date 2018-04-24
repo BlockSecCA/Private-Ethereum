@@ -1,14 +1,5 @@
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<style type="text/css">
-.auto-style1 {
-	font-size: larger;
-}
-.auto-style2 {
-	margin-left: 40px;
-}
-</style>
 </head>
 
 <p><span class="auto-style1">Private Ethereum Chain for fun and profit</span><br>
