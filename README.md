@@ -18,8 +18,8 @@ member nodes and connect to the public node <br>Optional: install
 eth-net-intelligence-api for a web console to monitor the network and subscribe 
 to public netstats<br>Optional: Install Mist wallet in PC and connect to your 
 nodes. This allows to execute contracts<br>Make some ether by mining<br>Execute 
-transfers and watch them go<br>Next Step: Node configuration Node config: 
-Generic node config<br></p>
+transfers and watch them go</p>
+<p class="auto-style2"><br>Next Step: Node configuration<br></p>
 <p><strong>Ubuntu Notes</strong></p>
 <p class="auto-style2">If you have a windows/mac box laying around, VMWare 
 workstation is free and does the job: 
