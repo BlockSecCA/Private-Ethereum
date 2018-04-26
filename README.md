@@ -1,6 +1,6 @@
 # Private Ethereum Chain for fun and profit
 
-## Primary objective: create a private ethereum network and blockchain.
+## Primary objective: create a private ethereum network and blockchain
 
 ### High level goals
 
@@ -12,7 +12,7 @@
 
 * Learn something from doing all of the above
 
-### The recipe looks like this:
+### The recipe looks like this
 
 * Get some OS (Ubuntu seems to be a preference and 16.04 server works well)
 
@@ -38,7 +38,7 @@
 
 ### Ubuntu Notes
 
-* If you have a windows/mac box laying around, VMWare workstation is free and does the job: [https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_workstation/10_0]
+* If you have a windows/mac box laying around, VMWare workstation is free and does the job: <https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_workstation/10_0>
 
 * If using Ubuntu (recommended) ubuntu-17.04-server-amd64 is a good choice for PCs with VMWare .Is quite small and wont take much on a VM.
 
@@ -64,7 +64,7 @@
 
 * For Windows 10, enable Developer mode under Settings->Update & Security->For developers. Then open up CMD from the startup menu by typing CMD and then Enter. then run the command "bash". This will install the Ubuntu package and give you command line tools to get the job done. Here's a nifty guide.
 
-* For Windows 7, install Putty from www.putty.org. This client has SSH capabilities and emulates Linux shells. Note Ubutuntu server may not have SSH daemon enabled by default so you may need to install OpenSSH (sudo apt-get install openssh-server). 
+* For Windows 7, install Putty from www.putty.org. This client has SSH capabilities and emulates Linux shells. Note Ubutuntu server may not have SSH daemon enabled by default so you may need to install OpenSSH (sudo apt-get install openssh-server).
 
 * You will need to find the IP the VM got in bridge mode (recommended mode). Ifconfig command may not be present by default so install net tools (sudo apt install net-tools). Example
 
@@ -74,6 +74,6 @@
 
 ### Ethereum general install notes
 
-* Ubuntu Installs: https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu 
+* Ubuntu Installs: <https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu>
 
-* Windows Installs: https://github.com/ethereum/go-ethereum/wiki/Installation-instructions-for-Windows
+* Windows Installs: <https://github.com/ethereum/go-ethereum/wiki/Installation-instructions-for-Windows>
