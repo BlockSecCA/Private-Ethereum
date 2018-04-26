@@ -34,11 +34,11 @@
 
 * Execute transfers and watch them go
 
-## Starting Point: Generic Node configuration (index.html file)
+## Starting Point: Generic Node configuration (index.html)
 
 ### Ubuntu Notes
 
-* If you have a windows/mac box laying around, VMWare workstation is free and does the job: https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_workstation/10_0
+* If you have a windows/mac box laying around, VMWare workstation is free and does the job: [https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_workstation/10_0]
 
 * If using Ubuntu (recommended) ubuntu-17.04-server-amd64 is a good choice for PCs with VMWare .Is quite small and wont take much on a VM.
 
@@ -68,12 +68,12 @@
 
 * You will need to find the IP the VM got in bridge mode (recommended mode). Ifconfig command may not be present by default so install net tools (sudo apt install net-tools). Example
 
-     * Ifconfig: sudo apt install net-tools
+  * Ifconfig: sudo apt install net-tools
 
-    * Open SSH: sudo apt install openssh-server
+  * Open SSH: sudo apt install openssh-server
 
 ### Ethereum general install notes
 
-* Installing in Ubuntu: https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu 
+* Ubuntu Installs: https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu 
 
-* Installing in Windows: https://github.com/ethereum/go-ethereum/wiki/Installation-instructions-for-Windows
+* Windows Installs: https://github.com/ethereum/go-ethereum/wiki/Installation-instructions-for-Windows
